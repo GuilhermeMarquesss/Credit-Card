@@ -1,6 +1,6 @@
 # Credit-Card
 
-<img src="/src/bank.jpg" alt="banco"/>
+<img src="/src/bank.jpg" alt="bank"/>
 
 ## Contexto
 O Billion Bank é um banco digital brasileiro, fundado em 2021. Trabalha hoje com contas digitais, e cartões de crédito.Quando um cliente solicita aumento de limite no cartão de crédito, o banco consulta uma empresa de crédito terceira, que retorna uma recomendação: "negar" ou "conceder". Essa resposta é repassada ao cliente.
